@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FlowExample</string>
+    <string name="network_error_message">Network error! Plaese try again</string>
 </resources>

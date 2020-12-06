@@ -4,5 +4,5 @@ import com.liarstudio.flowexample.domain.Image
 
 data class MainState(
     val isLoading: Boolean,
-    val images: List<Image>
+    val images: List<Image> = listOf()
 )
